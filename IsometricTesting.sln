@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsometricTesting", "Assembly-CSharp.csproj", "{95D52B5F-F45D-A80D-B31F-DF2ECF758179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsometricTesting", "Assembly-CSharp-Editor.csproj", "{001CF02D-949F-96C2-2B5A-7C3209A8D595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D52B5F-F45D-A80D-B31F-DF2ECF758179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D52B5F-F45D-A80D-B31F-DF2ECF758179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D52B5F-F45D-A80D-B31F-DF2ECF758179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D52B5F-F45D-A80D-B31F-DF2ECF758179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001CF02D-949F-96C2-2B5A-7C3209A8D595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001CF02D-949F-96C2-2B5A-7C3209A8D595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001CF02D-949F-96C2-2B5A-7C3209A8D595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001CF02D-949F-96C2-2B5A-7C3209A8D595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
